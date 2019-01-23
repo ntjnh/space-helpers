@@ -1,0 +1,23 @@
+{
+  "name": "space-helpers",
+  "version": "1.0.0",
+  "description": "A collection of CSS helper classes",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ntjnh/space-helpers.git"
+  },
+  "keywords": [
+    "css",
+    "sass"
+  ],
+  "author": "Nate Jonah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ntjnh/space-helpers/issues"
+  },
+  "homepage": "https://github.com/ntjnh/space-helpers#readme"
+}
