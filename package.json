@@ -12,7 +12,11 @@
   },
   "keywords": [
     "css",
-    "sass"
+    "sass",
+    "scss",
+    "spacing",
+    "padding",
+    "margin"
   ],
   "author": "Nate Jonah",
   "license": "ISC",
