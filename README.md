@@ -6,7 +6,7 @@ Space Helpers is a collection of margin and padding helper classes for your proj
 You can either download the files [directly](https://github.com/ntjnh/space-helpers/releases) or you can install via npm:
 
 ```sh
-npm install git://github.com/ntjnh/space-helpers.git#v1.0.0 --save-dev
+npm install git://github.com/ntjnh/space-helpers.git#v1.1.0 --save-dev
 ```
 
 ## How It Works
