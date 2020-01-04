@@ -1,0 +1,16 @@
+$space: 5px !default
+$directions: (t: top, r: right, b: bottom, l: left)
+$types: (m: margin, p: padding)
+
+@each $t, $type in $types
+  @for $i from 1 through 10
+    .#{$t}-all-#{$i}
+      #{$type}: $space * $i
+    @each $l, $dir in $directions
+      .#{$t}-#{$l}-#{$i}
+        #{$type}-#{$dir}: $space * $i
+  .c-#{$t}-all
+    #{$type}: 0
+  @each $l, $dir in $directions
+    .c-#{$t}-#{$l}
+      #{$type}-#{$dir}: 0
