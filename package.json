@@ -1,6 +1,6 @@
 {
   "name": "space-helpers",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A collection of CSS helper classes",
   "main": "app.js",
   "scripts": {
